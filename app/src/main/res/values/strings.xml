@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">InClassAssignment05</string>
+    <string name="button_go">GO</string>
+    <string name="spinner_title">Choose a Keyword</string>
+    <string name="spinner_default">Search Keyword</string>
+
+
 </resources>
