@@ -51,7 +51,8 @@
             android:id="@+id/button_prev"
             android:src="@drawable/ic_navigate_before_black_24dp"
             android:clickable="true"
-            android:focusable="true"/>
+            android:focusable="true"
+            android:layout_weight="1"/>
 
         <ImageView
             android:layout_width="wrap_content"
@@ -59,7 +60,8 @@
             android:id="@+id/button_next"
             android:src="@drawable/ic_navigate_next_black_24dp"
             android:clickable="true"
-            android:focusable="true"/>
+            android:focusable="true"
+            android:layout_weight="1"/>
 
     </LinearLayout>
 
